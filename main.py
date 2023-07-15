@@ -7,7 +7,7 @@ webhook_url = '<YOUR WEBHOOK HERE>'
 
 # Replace the '<ENTER YOUR SCRIPT HERE>' with your desired script
 multiline_script = '''
-print("hello")
+<ENTER YOUR SCRIPT HERE>
 '''
 
 def send_discord_message(webhook_url, message):
